@@ -9,9 +9,9 @@ const Home = () => {
     const options = {
       strings: [
         "Welcome to my profile",
-        "My Name is John Doe",
+        "My Name is Abhishek Pandey",
         "I'm full stack developer",
-        "Androide Developer (React Native)",
+        " one and all ReactJs ",
       ],
       typeSpeed: 50,
       backSpeed: 50,
@@ -34,9 +34,9 @@ const Home = () => {
           <a
             href={pdf}
             download="Resume.pdf"
-            className="btn btn-outline-warning my-3"
+            className="btn btn-outline-warning my-2 "
           >
-            Download Resume
+            Resume
           </a>
         </div>
         <div className="right">

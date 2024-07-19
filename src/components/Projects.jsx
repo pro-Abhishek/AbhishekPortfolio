@@ -4,7 +4,7 @@ import project from "./data/projects.json";
 const Projects = () => {
   return (
     <>
-      <div className="container projects my-3" id="projects">
+      <div className="container projects" id="projects">
         <h1>PROJECTS</h1>
         <div className="row d-flex justify-content-center align-content-center">
           {project.map((data) => (
@@ -39,7 +39,11 @@ const Projects = () => {
                   <div className="card-body text-center">
                     <h5 className="card-title">{data.title}</h5>
                     <p className="card-text">{data.description}</p>
-                    <a href={data.demo} className="btn btn-primary mx-3">
+                    <a
+                      href={data.demo}
+                      target="_blank"
+                      className="btn btn-primary mx-3"
+                    >
                       Demo
                     </a>
                     <a href={data.source} className="btn btn-warning">

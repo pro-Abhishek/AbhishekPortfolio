@@ -1,41 +1,42 @@
 [
   {
     "id": 1,
-    "role": "Senior Software Development Engineer SDE - II",
-    "organisation": "Google",
-    "startDate": "Sept, 2023",
-    "endDate": "Present",
-    "location": "CA,United State",
-    "experiences": [
-      "Worked on Google Gmail",
-      "Worked with the Google Bard Team"
-    ],
-    "imageSrc": "company/google.png"
+    "role": "College Student",
+    "organisation": "Oriental Group of Institute",
+    "startDate": "mar, 2023",
+    "endDate": "jun 2025",
+    "location": "Bhopal, MP",
+    "experiences": ["Software engineer", "Master of Computer Application"],
+    "imageSrc": "company/oriental.jpeg"
   },
   {
     "id": 2,
-    "role": "Software Development Engineer SDE - I",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2022",
-    "endDate": "Aug, 2023",
-    "location": "London, UK",
-    "experiences": [
-      "Worked on Windows 10 terminal",
-      "Worked on Window 11 Upcoming features"
-    ],
-    "imageSrc": "company/microsoft.png"
+    "role": "College Student",
+    "organisation": "Autonomous Holkar Science College",
+    "startDate": "mar, 2020",
+    "endDate": "aug, 2023",
+    "location": "Indore, MP",
+    "experiences": ["Computer Science Student"],
+    "imageSrc": "company/holkar.png"
   },
   {
     "id": 3,
-    "role": "Software Development Engineer - Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2021",
-    "endDate": "Jun, 2022",
-    "location": "Bengluru, India",
-    "experiences": [
-      "Worked on Nextflix payment system",
-      "Helped to create UI for video player"
-    ],
-    "imageSrc": "company/netflix.png"
+    "role": "Internship",
+    "organisation": "Amstech Incorporation pvt ltd",
+    "startDate": "Sept, 2022",
+    "endDate": "feb ,2023",
+    "location": "Indore,Madhya Pradesh",
+    "experiences": ["worked as a Intern", "Java developer"],
+    "imageSrc": "company/amstech.jpeg"
+  },
+  {
+    "id": 4,
+    "role": "Internship",
+    "organisation": "Anchor Software Solution pvt ltd",
+    "startDate": "mar, 2023",
+    "endDate": "Aug, 2023",
+    "location": "Indore, MP",
+    "experiences": ["web designer", "Frontend developer"],
+    "imageSrc": "company/anchor.jpeg"
   }
 ]

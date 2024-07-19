@@ -16,10 +16,18 @@ const Contact = () => {
           data-aos="zoom-in-up"
           data-aos-duration="1000"
         >
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a
+            href="https://www.instagram.com/yes_here_is_abhishek/"
+            target="_blank"
+            className="items"
+          >
             <FaInstagram className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a
+            href="https://www.facebook.com/profile.php?id=100026431506335"
+            target="_blank"
+            className="items"
+          >
             <CiFacebook className="icons" />
           </a>
           <a href="https://www.google.com" target="_blank" className="items">

@@ -5,7 +5,7 @@ const Experience = () => {
   return (
     <>
       <div className="container ex" id="experience">
-        <h1>EXPERIENCE</h1>
+        <h1 style={{ marginRight: "30px" }}>EXPERIENCE</h1>
         {experience.map((data) => {
           return (
             <>
@@ -20,9 +20,10 @@ const Experience = () => {
                 </div>
                 <div className="right">
                   <h2>{data.role}</h2>
+                  <h3>{data.organisation}</h3>
                   <h4>
                     <span style={{ color: "yellowgreen" }}>
-                      {data.startDate} {data.endDate}{" "}
+                      {data.startDate} to {data.endDate}{" "}
                     </span>{" "}
                     <span style={{ color: "yellow" }}>{data.location}</span>
                   </h4>
