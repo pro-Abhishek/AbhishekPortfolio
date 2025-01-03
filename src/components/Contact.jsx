@@ -40,7 +40,7 @@ const Contact = () => {
             <FaGithubSquare className="icons" />
           </a>
           <a
-            href="mailto:webdevmastery@gmail.com"
+            href="abhi182334823@gmail.com"
             target="_blank"
             className="items"
           >

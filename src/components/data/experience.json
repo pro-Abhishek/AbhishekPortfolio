@@ -7,7 +7,7 @@
     "endDate": "jun 2025",
     "location": "Bhopal, MP",
     "experiences": ["Software engineer", "Master of Computer Application"],
-    "imageSrc": "company/oriental.jpeg"
+    "imageSrc": "./assets/company/oriental.jpeg"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "endDate": "aug, 2023",
     "location": "Indore, MP",
     "experiences": ["Computer Science Student"],
-    "imageSrc": "company/holkar.png"
+    "imageSrc": "./assets/company/holkar.png"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "endDate": "feb ,2023",
     "location": "Indore,Madhya Pradesh",
     "experiences": ["worked as a Intern", "Java developer"],
-    "imageSrc": "company/amstech.jpeg"
+    "imageSrc": "./assets/company/amstech.jpeg"
   },
   {
     "id": 4,
@@ -37,6 +37,6 @@
     "endDate": "Aug, 2023",
     "location": "Indore, MP",
     "experiences": ["web designer", "Frontend developer"],
-    "imageSrc": "company/anchor.jpeg"
+    "imageSrc": "./assets/company/anchor.jpeg"
   }
 ]
