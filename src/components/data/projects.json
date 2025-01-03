@@ -2,7 +2,7 @@
   {
     "key": 1,
     "title": "React E-Commerce",
-    "imageSrc": "assets/hero/shopImage.jpg",
+    "imageSrc": "./assets/hero/shopImage.jpg",
     "description": "This is a project made with complete React js.",
     "demo": "https://pro-abhishek.github.io/friendlyMarket/",
     "source": "https://github.com/pro-Abhishek/friendlyMarket"
@@ -10,7 +10,7 @@
   {
     "key": 2,
     "title": "Tech News",
-    "imageSrc": "assets/hero/news.jpg",
+    "imageSrc": "./assets/hero/news.jpg",
     "description": "This is a project made with complete React js.",
     "demo": "https://www.example.com",
     "source": "https://github.com/pro-Abhishek/Tech-News"
